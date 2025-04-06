@@ -1,10 +1,10 @@
-2271ab48dac4110845e69f96a364dd0b *DESCRIPTION
+d825fd627d734049f9abf9df5f82b764 *DESCRIPTION
 e84817facc9df82e6962744e7acf1c95 *NAMESPACE
 6f29fd6d193597b6dbdd68b1edf67874 *NEWS
-78f9a3f795bcf854794596731468b69b *data/clinical.info.rda
-e39cbf8712fb7a7085a4c56ac4e4206b *data/expression.data.rda
-fa4c2b6bc63b903ac77d3a138a08507e *data/gene.info.rda
-231fde7f5e98788e10247eb3b446e88e *data/lungData.rda
+fc7e7ce871766d61d200c92401bee960 *data/clinical.info.rda
+b0991255da871ceccef3e46482d79865 *data/expression.data.rda
+41595b4e71e5924d4bad8c5f5efbeeaa *data/gene.info.rda
+2399b3f92b0d352791636c280e5aea00 *data/lungData.rda
 63b6bf2069dff1c56d7c41645cd49390 *man/cd09-1-lungData.Rd
 f66deee17f361dcb9c360a529bf635c7 *man/tr09-expression.data.Rd
 29b0d068dd867e6a8a0b0972df99515f *man/tr10-clinical.info.Rd
